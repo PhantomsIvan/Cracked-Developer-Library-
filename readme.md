@@ -4,6 +4,8 @@
 ## Intro
 Books i want to write notes on maybe even produce some kind of book report
 
+Various of the books are tagged by a Harvard CS subject they might be related in because it's so easy to find syllabus information on Harvard courses if not complete slide decks for a whole semester.
+
 Let me know if you're reading or have read similar books
 
 ## Currently reading:
