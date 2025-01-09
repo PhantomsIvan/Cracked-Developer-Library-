@@ -1,4 +1,4 @@
-## The wild wild west 
+# The Wild Wild West 
 
 
 ## Intro
