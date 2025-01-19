@@ -12,6 +12,6 @@ Let me know if you're reading or have read similar books
 - Computer Systems a Programmer's Perspective
     - CS61 Systems Programming and Machine Organization 
     - Covers: C, C++, Assembly, Performance Analysis, Memory Management, Caching, Concurrency, Threads, Synchronization
-    - https://cs61.seas.harvard.edu/site/2019/Schedule/
+    - https://cs61.seas.harvard.edu/site/2019/Schedule/ CH3, CH8 (Preview), CH10, CH9, CH8, CH12
 
 
